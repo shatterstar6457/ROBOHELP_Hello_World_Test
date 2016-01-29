@@ -1,0 +1,106 @@
+﻿[Target:WebHelp Pro]
+ResultFileName=!SSL!\WebHelp_Pro\Hello_World!.htm
+SSLayoutType=32
+ServerProjectName=Hello World!
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:WebHelp]
+ResultFileName=!SSL!\WebHelp\Hello_World!.htm
+SSLayoutType=2
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:Microsoft HTML Help]
+ResultFileName=!SSL!\Microsoft_HTML_Help\Hello_World!.chm
+SSLayoutType=1
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:FlashHelp]
+ResultFileName=!SSL!\FlashHelp\Hello_World!.htm
+SSLayoutType=2
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:Printed Documentation]
+ResultFileName=!SSL!\Printed_Documentation\Hello_World!.doc
+SSLayoutType=7
+[Target:XML Output]
+ResultFileName=!SSL!\XML_Output\Hello_World!.xml
+SSLayoutType=8129
+[Target:FlashHelp Pro]
+ResultFileName=!SSL!\FlashHelp_Pro\Hello_World!.htm
+SSLayoutType=2
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:Adobe AIR]
+ResultFileName=!SSL!\Adobe_AIR\Hello_World!.air
+SSLayoutType=512
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:Multiscreen HTML5]
+ResultFileName=!SSL!\Multiscreen_HTML5\Hello_World!.htm
+SSLayoutType=2
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:eBook]
+ResultFileName=!SSL!\eBook\Hello_World!.epub
+SSLayoutType=2
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+ActionID For Generation=1001
+Remove Folder with prompt=1
+[Target:Responsive HTML5]
+ResultFileName=!SSL!\Responsive_HTML5\index.htm
+SSLayoutType=2
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+ActionID For Generation=1002
+Remove Folder with prompt=1
+ViewFileName=!SSL!\Responsive_HTML5\index.htm
+ResultStatus=2
+ResultStatusSharePoint=2
+[Target:Mobile App]
+ResultFileName=!SSL!\Mobile_App\Hello_World!.htm
+SSLayoutType=3
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+ActionID For Generation=1001
+Remove Folder with prompt=1
+[PreSingleSource]
+Html Help Project=C:\WORKSPACES\Dev.Workspace.Self-Instruction.RoboHelp\Test_Project\Hello World!.hhp
+Table Of Content=C:\WORKSPACES\Dev.Workspace.Self-Instruction.RoboHelp\Test_Project\Hello World!.hhc
+Index=C:\WORKSPACES\Dev.Workspace.Self-Instruction.RoboHelp\Test_Project\Hello World!.hhk
+Topic Index=C:\WORKSPACES\Dev.Workspace.Self-Instruction.RoboHelp\Test_Project\RHTopicKeyword$.hhk
+See Also Index=C:\WORKSPACES\Dev.Workspace.Self-Instruction.RoboHelp\Test_Project\Hello World!.hha
+Browse Sequence=C:\WORKSPACES\Dev.Workspace.Self-Instruction.RoboHelp\Test_Project\Hello World!.brs
+Glossary=C:\WORKSPACES\Dev.Workspace.Self-Instruction.RoboHelp\Test_Project\Hello World!.glo
+Topic Properties=C:\WORKSPACES\Dev.Workspace.Self-Instruction.RoboHelp\Test_Project\Hello World!.trs
+Active Folders=C:\WORKSPACES\Dev.Workspace.Self-Instruction.RoboHelp\Test_Project\Hello World!.trf
+Baggage Files=C:\WORKSPACES\Dev.Workspace.Self-Instruction.RoboHelp\Test_Project\Hello World!.trb
+Skin List=C:\WORKSPACES\Dev.Workspace.Self-Instruction.RoboHelp\Test_Project\Hello World!.trk
+Active Layout Names=C:\WORKSPACES\Dev.Workspace.Self-Instruction.RoboHelp\Test_Project\Hello World!.trl
+Template Files=C:\WORKSPACES\Dev.Workspace.Self-Instruction.RoboHelp\Test_Project\Hello World!.trt
+Project TOC List=C:\WORKSPACES\Dev.Workspace.Self-Instruction.RoboHelp\Test_Project\Hello World!.trtocl
+Project Index List=C:\WORKSPACES\Dev.Workspace.Self-Instruction.RoboHelp\Test_Project\Hello World!.tridxl
+Project Glossary List=C:\WORKSPACES\Dev.Workspace.Self-Instruction.RoboHelp\Test_Project\Hello World!.trglol
+Project CSS List=C:\WORKSPACES\Dev.Workspace.Self-Instruction.RoboHelp\Test_Project\Hello World!.trcss
+Project Variable Set List=C:\WORKSPACES\Dev.Workspace.Self-Instruction.RoboHelp\Test_Project\Hello World!.trvset
+External URL Settings=C:\WORKSPACES\Dev.Workspace.Self-Instruction.RoboHelp\Test_Project\SearchOptions.xml
+Screen Template File Details=C:\WORKSPACES\Dev.Workspace.Self-Instruction.RoboHelp\Test_Project\Hello World!.sctfdl
+CPSwfToHTML5Map=C:\WORKSPACES\Dev.Workspace.Self-Instruction.RoboHelp\Test_Project\__cpSwf2HTML5ZipMap
+Default Topic=C:\WORKSPACES\Dev.Workspace.Self-Instruction.RoboHelp\Test_Project\First_Topic.htm
+Build Tags0=20472;Online | Print
+Build Tags=
+Build Expression=
+Language ID=1033
+Language Name=en_US
+Language=C:\WORKSPACES\Dev.Workspace.Self-Instruction.RoboHelp\Test_Project\!Language!\en_US\RoboHHRE.lng
+Stop List=C:\WORKSPACES\Dev.Workspace.Self-Instruction.RoboHelp\Test_Project\!Language!\en_US\Hello World!.stp
